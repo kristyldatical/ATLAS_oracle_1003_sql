@@ -1,0 +1,1 @@
+create table ATLAS_SCHEMA_A.my_table_4(id int);
