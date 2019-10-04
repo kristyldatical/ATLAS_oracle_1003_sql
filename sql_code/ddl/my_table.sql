@@ -1,1 +1,1 @@
-create table my_table(id int);
+create table ATLAS_SCHEMA_A.my_table_3(id int);
