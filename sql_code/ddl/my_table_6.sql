@@ -1,1 +1,1 @@
-create table my_table_5(id int);
+create table my_table_6(id int);
