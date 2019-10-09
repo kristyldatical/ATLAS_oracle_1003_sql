@@ -1,0 +1,1 @@
+create table my_table_8(id int);
